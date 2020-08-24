@@ -1,0 +1,11 @@
+C:\Users\natan\OneDrive - Durham College\4semester\OOP III - 4200-04\Tutorial 1\Tutorial01\bin\Debug\netcoreapp3.0\Tutorial01.exe
+C:\Users\natan\OneDrive - Durham College\4semester\OOP III - 4200-04\Tutorial 1\Tutorial01\bin\Debug\netcoreapp3.0\Tutorial01.deps.json
+C:\Users\natan\OneDrive - Durham College\4semester\OOP III - 4200-04\Tutorial 1\Tutorial01\bin\Debug\netcoreapp3.0\Tutorial01.runtimeconfig.json
+C:\Users\natan\OneDrive - Durham College\4semester\OOP III - 4200-04\Tutorial 1\Tutorial01\bin\Debug\netcoreapp3.0\Tutorial01.runtimeconfig.dev.json
+C:\Users\natan\OneDrive - Durham College\4semester\OOP III - 4200-04\Tutorial 1\Tutorial01\bin\Debug\netcoreapp3.0\Tutorial01.dll
+C:\Users\natan\OneDrive - Durham College\4semester\OOP III - 4200-04\Tutorial 1\Tutorial01\bin\Debug\netcoreapp3.0\Tutorial01.pdb
+C:\Users\natan\OneDrive - Durham College\4semester\OOP III - 4200-04\Tutorial 1\Tutorial01\obj\Debug\netcoreapp3.0\Tutorial01.csprojAssemblyReference.cache
+C:\Users\natan\OneDrive - Durham College\4semester\OOP III - 4200-04\Tutorial 1\Tutorial01\obj\Debug\netcoreapp3.0\Tutorial01.AssemblyInfoInputs.cache
+C:\Users\natan\OneDrive - Durham College\4semester\OOP III - 4200-04\Tutorial 1\Tutorial01\obj\Debug\netcoreapp3.0\Tutorial01.AssemblyInfo.cs
+C:\Users\natan\OneDrive - Durham College\4semester\OOP III - 4200-04\Tutorial 1\Tutorial01\obj\Debug\netcoreapp3.0\Tutorial01.dll
+C:\Users\natan\OneDrive - Durham College\4semester\OOP III - 4200-04\Tutorial 1\Tutorial01\obj\Debug\netcoreapp3.0\Tutorial01.pdb
